@@ -658,6 +658,28 @@
         ]
       }
     },
+    "perilscore": {
+      "sha": "91c200c8cf7851161731e7a7081240a9878892e3",
+      "version": "1.0.1",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "perilscore",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "build-with-perilscore",
+            "description": "Build, review, or troubleshoot integrations with the PerilScore REST API or canonical MCP server, including anonymous f…"
+          },
+          {
+            "name": "perilscore-property-risk",
+            "description": "Score, explain, compare, or enrich US property addresses with PerilScore catastrophe risk, fire protection, COPE, prope…"
+          }
+        ]
+      }
+    },
     "pstack": {
       "sha": "1b6d44ff26d4e242f4e8f68c391e6d2f7ca16def",
       "components": {
